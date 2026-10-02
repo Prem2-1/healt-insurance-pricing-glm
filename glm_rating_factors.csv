@@ -1,0 +1,10 @@
+Factor,Relativity
+(Intercept),2140.0704
+age,1.0294
+children,1.0886
+regionnorthwest,0.936
+regionsoutheast,0.8583
+regionsouthwest,0.8566
+bmi,1.0037
+smokeryes,1.0562
+bmi:smokeryes,1.0473
